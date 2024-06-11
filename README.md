@@ -1,0 +1,1 @@
+Simple meson-python dummy project
